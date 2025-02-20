@@ -84,7 +84,7 @@
 			<plugin>
 				<groupId>com.microsoft.azure</groupId>
 				<artifactId>azure-functions-maven-plugin</artifactId>
-				<version>1.14.2</version>
+				<version>1.35.0</version>
 				<configuration>
 					<resourceGroup>com.example</resourceGroup>
 					<appName>demo</appName>
